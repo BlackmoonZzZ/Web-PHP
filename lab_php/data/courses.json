@@ -1,0 +1,5 @@
+[
+    {"id": "CS101", "name": "Lập trình PHP", "credits": 3},
+    {"id": "CS102", "name": "Cấu trúc dữ liệu", "credits": 4},
+    {"id": "CS103", "name": "Cơ sở dữ liệu", "credits": 3}
+]

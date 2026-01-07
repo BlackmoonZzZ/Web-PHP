@@ -1,0 +1,20 @@
+[
+    {
+        "id": "sv01",
+        "username": "admin",
+        "password": "123",
+        "fullname": "Nguyễn Anh Minh"
+    },
+    {
+        "id": "sv02",
+        "username": "student",
+        "password": "123",
+        "fullname": "Trần Thị  A"
+    },
+    {
+        "id": "20230493",
+        "username": "minhz4",
+        "password": "123",
+        "fullname": "Nguyễn Anh Minh"
+    }
+]
