@@ -1,0 +1,18 @@
+[
+    {
+        "masach": "B001",
+        "tensach": "123",
+        "tacgia": "Đoàn",
+        "namxb": 1906,
+        "theloai": "Giáo trình",
+        "soluong": 0
+    },
+    {
+        "masach": "B002",
+        "tensach": "123",
+        "tacgia": "Đoàn",
+        "namxb": 1906,
+        "theloai": "Giáo trình",
+        "soluong": 1
+    }
+]

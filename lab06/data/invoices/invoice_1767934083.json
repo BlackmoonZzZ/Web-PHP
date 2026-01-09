@@ -1,0 +1,25 @@
+{
+    "ma_hd": 1767934083,
+    "ngay_tao": "2026-01-09 05:48:03",
+    "khach_hang": {
+        "hoten": "Nguyễn Anh Minh",
+        "sdt": "0364923738",
+        "email": "anhminh2k525@gmail.com"
+    },
+    "san_pham": [
+        {
+            "ten": "123",
+            "sl": 3,
+            "gia": 123123123,
+            "tt": 369369369
+        }
+    ],
+    "chi_tiet": {
+        "tong_hang": 369369369,
+        "giam_gia": 12,
+        "tien_giam": 44324324.28,
+        "vat_percent": 8,
+        "tien_vat": 26003603.577600002,
+        "tong_cong": 351048648.29760003
+    }
+}
